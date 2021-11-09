@@ -68,7 +68,7 @@
 			</div>
 			<div class="flex-1 flex ml-11 sm:items-stretch sm:justify-start sm:ml-0">
 				<div class="flex-shrink-0 flex items-center text-2xl text-green-400">
-					<a href="/">Indowikipedia</a>
+					<a href="/">Littleblogger</a>
 				</div>
 				<div class="hidden sm:ml-6 sm:flex sm:space-x-8">
 					<!-- Current: "border-indigo-500 text-gray-900", Default: "border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700" -->

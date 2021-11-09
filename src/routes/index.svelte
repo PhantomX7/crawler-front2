@@ -46,8 +46,8 @@
 </script>
 
 <svelte:head>
-	<title>Indowikipedia | Tempat artikel terpopuler di Indonesia</title>
-	<meta property="description" content="tempat informasi paling menarik seputar indonesia yang hot dan terupdate" />
+	<title>Littleblogger | Pusat artikel terpopuler di Indonesia</title>
+	<meta property="description" content="kumpulan berita paling menarik seputar indonesia yang hot dan terpopuler" />
 </svelte:head>
 
 <!--Hero-->
