@@ -1,0 +1,28 @@
+/* Write your global styles here, in PostCSS syntax */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+.gradient {
+	background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+}
+
+.tick-flip-panel {
+	background-color: #fff !important;
+	color: #000 !important;
+}
+
+.hide-scroll{
+    overflow: scroll;
+}
+
+.hide-scroll::-webkit-scrollbar {
+    background: transparent; /* make scrollbar transparent */
+    width: 0px;
+}

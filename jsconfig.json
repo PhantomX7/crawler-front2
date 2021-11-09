@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"$lib": ["src/lib"],
+			"$lib/*": ["src/lib/*"],
+			"@env": ["src/env"],
+			"@api": ["src/api"],
+			"@components": ["src/components"],
+			"@helpers": ["src/helpers"],
+			"@node_modules": ["node_modules"],
+			"@store": ["src/store"]
+		}
+	},
+	"include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.svelte"]
+}
