@@ -61,9 +61,9 @@
 			<div class="bg-white h-1/3 sm:h-2/3" />
 		</div>
 		<div class="relative max-w-7xl mx-auto">
-			<a href="https://bit.ly/daftarhappympo">
+			<!-- <a href="https://bit.ly/daftarhappympo">
 				<img class="h-72 w-full object-cover" src="https://images.linkcdn.cloud/V1/305/banner/305-banner-885212177.webp" alt="slot terbaik happympo" />
-			</a>
+			</a> -->
 
 			<div class="text-center">
 				<h2 class="text-3xl mt-2 tracking-tight font-extrabold text-gray-900 sm:text-4xl">
