@@ -115,9 +115,9 @@
 			</div>
 		</div>
 		<div class="relative px-4 sm:px-6 lg:px-8">
-			<!-- <a href="https://bit.ly/daftarhappympo">
-				<img class="h-72 w-full object-cover" src="https://images.linkcdn.cloud/V1/305/banner/305-banner-885212177.webp" alt="slot terbaik happympo" />
-			</a> -->
+			<a href="https://bit.ly/daftarheroslotwiki">
+				<img class="h-72 w-full object-cover" src="https://bh01static.s3.eu-west-3.amazonaws.com/promotions/promotion_5_75.jpg" alt="slot terbaik heroslot77" />
+			</a>
 			<div class="text-lg max-w-prose mx-auto">
 				<h1>
 					<span
